@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\refint\Matrizes.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\6 - Comportamento de memória, arrays, listas\Exercicío fixação (MATRIZES)\Matrizes\Matrizes\obj\Debug\net8.0\ref\Matrizes.dll

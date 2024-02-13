@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\bin\Debug\net8.0\HotelRent.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\bin\Debug\net8.0\HotelRent.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\bin\Debug\net8.0\HotelRent.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\bin\Debug\net8.0\HotelRent.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\bin\Debug\net8.0\HotelRent.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\refint\HotelRent.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\HotelRent.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\HotelRent\HotelRent\obj\Debug\net8.0\ref\HotelRent.dll

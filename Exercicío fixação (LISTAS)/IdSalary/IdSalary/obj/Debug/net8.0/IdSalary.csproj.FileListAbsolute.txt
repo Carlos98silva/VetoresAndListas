@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\bin\Debug\net8.0\IdSalary.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\bin\Debug\net8.0\IdSalary.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\bin\Debug\net8.0\IdSalary.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\bin\Debug\net8.0\IdSalary.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\bin\Debug\net8.0\IdSalary.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\refint\IdSalary.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\IdSalary.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\IdSalary\IdSalary\obj\Debug\net8.0\ref\IdSalary.dll
